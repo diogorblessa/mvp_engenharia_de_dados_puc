@@ -5,4 +5,5 @@
 databricks.yml
 .venv
 CLAUDE.md
+COMMIT_GUIDELINES.md
 docs/escopo_mvp/
